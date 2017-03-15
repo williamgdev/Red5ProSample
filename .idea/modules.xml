@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Red5ProPOC.iml" filepath="$PROJECT_DIR$/Red5ProPOC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apache-mina/apache-mina.iml" filepath="$PROJECT_DIR$/apache-mina/apache-mina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/red5streaming/red5streaming.iml" filepath="$PROJECT_DIR$/red5streaming/red5streaming.iml" />
+    </modules>
+  </component>
+</project>
